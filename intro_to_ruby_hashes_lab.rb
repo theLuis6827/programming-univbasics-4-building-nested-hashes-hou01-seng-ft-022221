@@ -75,13 +75,6 @@ def monopoly_with_fourth_tier
   }
 }
 
-#reading_value = {:mortgage_value => 100}
-#monopoly{
-#  :mortgage_value = 100 }
-#monopoly[:names][:pennsylvania_railroad] = 200
-#monopoly[:names][:b_and_o_railroad] = 400
-#monopoly[:names][shortline_railroad] = 800
-
 
   # When you start writing the implementation for this method, copy the Hash
   # you built in the previous method. Run the tests. They will fail, but
